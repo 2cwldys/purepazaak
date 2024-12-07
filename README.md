@@ -5,6 +5,8 @@ Pazaak Cantina v1.8.2 from [Archive.ORG](https://archive.org/details/pazaak-cant
 
 Pazaak Cantina is a standalone version of the mini-game "Pazaak" from BioWare's 2003 game, Star Wars: The Knights of the Old Republic.
 
+Using a VLAN tunneling service is required, such as Hamachi, RadminVPN, or FreeLAN in order to play multiplayer.
+
 ```
  System requirements:
      - Windows Vista / Windows XP / Windows 2000
